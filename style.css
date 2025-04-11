@@ -36,6 +36,11 @@ ul{
     margin: 0;
     padding: 0;
 }
+.img-fluid {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+    
 img{
     vertical-align: middle;
     max-width: 100%;
